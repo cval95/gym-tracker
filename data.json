@@ -1,0 +1,208 @@
+{
+	"Days": {
+		"Pull 1": [
+			{
+				"id": 1,
+				"Exercise Name": "Bent Over Barbell Rows",
+				"set": 4,
+                "reps":12
+			},
+			{
+				"id": 2,
+				"Exercise Name": "Wide Grip Lat Pull Down",
+				"set": 4,
+                "reps":12
+			},
+			{
+                "id": 3,
+                "Exercise Name": "Lat Pushdowns",
+				"set": 4,
+                "reps":12
+			},
+			{
+                "id": 4,
+                "Exercise Name": "Barbell Biceps",
+				"set": 4,
+                "reps":8
+			},
+            {
+                "id": 5,
+                "Exercise Name": "Preacher Curls",
+				"set": 3,
+                "reps":12
+			},
+            {
+                "id": 6,
+                "Exercise Name": "Hammer Curls",
+				"set": 4,
+                "reps":12
+			}
+		],
+        "Push 1":[
+            {
+				"id": 1,
+				"Exercise Name": "Bench Press",
+				"set": 4,
+                "reps":12
+			},
+			{
+				"id": 2,
+				"Exercise Name": "Chest Dips",
+				"set": 4,
+                "reps":12
+			},
+			{
+                "id": 3,
+                "Exercise Name": "Overhead Triceps Extensions",
+				"set": 4,
+                "reps":12
+			},
+			{
+                "id": 4,
+                "Exercise Name": "Triceps Pulldown",
+				"set": 4,
+                "reps":8
+			},
+            {
+                "id": 5,
+                "Exercise Name": "Sider Lateral to Front Raise",
+				"set": 3,
+                "reps":12
+			},
+            {
+                "id": 6,
+                "Exercise Name": "Shoulder Press",
+				"set": 4,
+                "reps":12
+			}
+        ],
+        "Legs 1":[
+            {
+				"id": 1,
+				"Exercise Name": "Squats",
+				"set": 4,
+                "reps":6
+			},
+			{
+				"id": 2,
+				"Exercise Name": "Dumbbell Lunges",
+				"set": 4,
+                "reps":12
+			},
+			{
+                "id": 4,
+                "Exercise Name": "Leg Curls",
+				"set": 4,
+                "reps":12
+			},
+			{
+                "id": 5,
+                "Exercise Name": "Leg Extensions",
+				"set": 4,
+                "reps":8
+			}
+        ],
+        "Pull 2":[
+            {
+				"id": 1,
+				"Exercise Name": "Deadlift",
+				"set": 3,
+                "reps":6
+			},
+			{
+				"id": 2,
+				"Exercise Name": "Cable Rows",
+				"set": 4,
+                "reps":12
+			},
+			{
+                "id": 3,
+                "Exercise Name": "Pull-ups",
+				"set": 4,
+                "reps":5
+			},
+			{
+                "id": 4,
+                "Exercise Name": "Alternating Dumbell Curls",
+				"set": 4,
+                "reps":8
+			},
+            {
+                "id": 5,
+                "Exercise Name": "Seated Incline",
+				"set": 3,
+                "reps":12
+			},
+            {
+                "id": 6,
+                "Exercise Name": "Spider Curls",
+				"set": 4,
+                "reps":12
+			}
+        ],
+        "Push 2":[
+            {
+				"id": 1,
+				"Exercise Name": "Incline Bench Press",
+				"set": 4,
+                "reps":6
+			},
+			{
+				"id": 2,
+				"Exercise Name": "Cable Crossover",
+				"set": 4,
+                "reps":12
+			},
+			{
+                "id": 3,
+                "Exercise Name": "Skull Crushers",
+				"set": 4,
+                "reps":5
+			},
+			{
+                "id": 4,
+                "Exercise Name": "Cable Overhead Triceps Extensions",
+				"set": 4,
+                "reps":8
+			},
+            {
+                "id": 5,
+                "Exercise Name": "Lateral Raises",
+				"set": 3,
+                "reps":12
+			},
+            {
+                "id": 6,
+                "Exercise Name": "Single Arm Linear Jammer",
+				"set": 4,
+                "reps":12
+			}
+        ],
+        "Legs 2":[
+            {
+				"id": 1,
+				"Exercise Name": "Machine Hack Squat",
+				"set": 4,
+                "reps":6
+			},
+			{
+				"id": 2,
+				"Exercise Name": "Dumbbell Bulgarian Split Squat",
+				"set": 4,
+                "reps":12
+			},
+			{
+                "id": 3,
+                "Exercise Name": "Romanian Deadlift",
+				"set": 4,
+                "reps":5
+			},
+			{
+                "id": 4,
+                "Exercise Name": "Bodyweight Squats",
+				"set": 4,
+                "reps":8
+			}
+        ]
+	}
+}
