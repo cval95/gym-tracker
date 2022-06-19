@@ -1,0 +1,22 @@
+{
+  "name": "gym-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cval95/gym-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cval95/gym-tracker/issues"
+  },
+  "homepage": "https://github.com/cval95/gym-tracker#readme",
+  "dependencies": {
+    "socket.io": "^4.5.1"
+  }
+}
